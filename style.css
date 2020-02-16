@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+}
+
+body {
+  height: 1024px;
+  width: 700px;
+  margin: 0 auto;
+  background: #ffff;
+  font-family: "Maven Pro Regular", sans-serif;
+  font-size: 16px;
+}
+img {
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 5px;
+  height: 200px;
+  width: 200px;
+}
+ol > li {
+  font-size: 24px;
+  color: #2d71b4;
+}
