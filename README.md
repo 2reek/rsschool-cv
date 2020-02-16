@@ -1,1 +1,1 @@
-# https://2reek.github.io/rsschool-cv/
+# https://2reek.github.io/rsschool-cv/cv
